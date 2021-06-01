@@ -1,7 +1,6 @@
 import com.baidu.xuper.api.Account;
 import com.baidu.xuper.api.Transaction;
 import com.baidu.xuper.api.XuperClient;
-
 import java.math.BigInteger;
 import java.util.HashMap;
 import java.util.Map;
